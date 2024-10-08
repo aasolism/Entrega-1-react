@@ -4,7 +4,7 @@ import './App.css'
 
 function App() {
   return (
-    <div ClassName="App">
+    <div className="App">
       <Navbar/>
       <ItemListContainer saludo={'Aquí podrás encontrar el partido de tu equipo favorito'}/>
     </div>
